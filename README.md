@@ -1,63 +1,24 @@
-<h1 align="center">Hi 👋, I'm Micaela Vazquez</h1>
-<h3 align="center">Full Stack Developer | Angular & Firebase</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Micaela Vazquez
+========================================================================================================================================
 
----
+Full Stack Developer
+--------------------
 
-### 💻 About Me
+I’m a Full Stack Developer with experience building complete web applications, working on both client-side and server-side logic.
 
-- 🎓 Técnica Universitaria en Programación (UTN)
-- 🚀 Desarrolladora **Full Stack**
-- 💡 Fuerte en **Frontend con Angular**, pero también trabajo el **Backend**
-- 🔥 Experiencia con **Firebase (Authentication y Firestore)**
-- 🧠 Me enfoco en buenas prácticas, código claro y funcional
-- 🌱 En constante aprendizaje para seguir creciendo como desarrolladora
+I enjoy understanding how all parts of an application work together, from the user interface to data handling and authentication.
 
----
+I have worked with modern web technologies and backend services, and I’m continuously learning to improve my skills and write clean, maintainable code.
 
-### 🛠️ Tech Stack
+* 🌍  I'm based in Argentina
+* ✉️  You can contact me at [micaelavazquez470sl@gmail.com](mailto:micaelavazquez470sl@gmail.com)
 
-**Frontend**
-- Angular (v13+)
-- Ionic
-- TypeScript
-- HTML5
-- CSS3 / SCSS
-- Angular Material
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
+</p>
 
-**Backend**
-- Firebase Authentication
-- Firestore
-- Cloud Functions (nivel inicial/intermedio)
+### Socials
 
-**Programming Languages**
-- TypeScript
-- C
-
-**Tools**
-- Git & GitHub
-- Visual Studio Code
-- Postman
-
----
-
-### 📂 Projects
-
-- 🏥 **Sistema de Clínica**  
-  App web Full Stack con manejo de usuarios, roles, login, turnos y permisos.  
-  _Angular · Firebase · Angular Material_
-
-- 📱 **App de Presupuestos**  
-  Aplicación desarrollada con Ionic, basada en un proyecto previo en Angular.  
-  _Ionic · TypeScript_
-
----
-
-### 📫 Contact
-
-- 💼 LinkedIn: *[agregar link]*
-- 📧 Email: *[tu email]*
-- 🌍 GitHub: [github.com/MicaVazquez](https://github.com/MicaVazquez)
-
----
-
-⭐ Busco seguir creciendo como Full Stack Developer y aportar valor en proyectos reales.
+<p align="left"> <a href="https://www.github.com/MicaVazquez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/micaela-vazquez-873999263/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/MicaVazquez" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MicaVazquez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
