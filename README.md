@@ -1,10 +1,9 @@
-Hola <div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
-</div> Mi nombre es Micaela Vazquez
+</div>
 
-
-Full Stack Developer
---------------------
+## Hola, soy Micaela Vazquez 👋  
+### Full Stack Developer
 
 Soy una desarrolladora Full Stack con experiencia en la creación de aplicaciones web completas, trabajando tanto en la lógica del lado del cliente como del servidor.
 
