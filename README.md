@@ -1,31 +1,31 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="180"/>
 
-  # Hola, soy Micaela Vazquez 👋
-  ### Full Stack Developer 🇦🇷
+  # Hola, soy Micaela Vazquez ðŸ‘‹
+  ### Full Stack Developer ðŸ‡¦ðŸ‡·
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/micaela-vazquez21)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micaelavazquez470sl@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://TU_PORTFOLIO.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-micaelavazquez.vercel.app/)
 
 </div>
 
 ---
 
-## Sobre mí
+## Sobre mÃ­
 
-Soy una desarrolladora Full Stack con experiencia en la creación de aplicaciones web completas, trabajando tanto en la lógica del lado del cliente como del servidor.
+Soy una desarrolladora Full Stack con experiencia en la creaciÃ³n de aplicaciones web completas, trabajando tanto en la lÃ³gica del lado del cliente como del servidor.
 
-Disfruto entender cómo interactúan todas las partes de una aplicación, desde la interfaz de usuario hasta el manejo de datos y la autenticación. Me encuentro en constante aprendizaje para mejorar mis habilidades y escribir código limpio y mantenible.
+Disfruto entender cÃ³mo interactÃºan todas las partes de una aplicaciÃ³n, desde la interfaz de usuario hasta el manejo de datos y la autenticaciÃ³n. Me encuentro en constante aprendizaje para mejorar mis habilidades y escribir cÃ³digo limpio y mantenible.
 
-- 🌍 Vivo en **Argentina**
-- 🚀 Siempre aprendiendo tecnologías nuevas
-- 🤝 Abierta a colaborar en proyectos interesantes
-- ✉️ Contacto: [micaelavazquez470sl@gmail.com](mailto:micaelavazquez470sl@gmail.com)
+- ðŸŒ Vivo en **Argentina**
+- ðŸš€ Siempre aprendiendo tecnologÃ­as nuevas
+- ðŸ¤ Abierta a colaborar en proyectos interesantes
+- âœ‰ï¸ Contacto: [micaelavazquez470sl@gmail.com](mailto:micaelavazquez470sl@gmail.com)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## ðŸ› ï¸ TecnologÃ­as y herramientas
 
 **Lenguajes**
 
@@ -67,7 +67,7 @@ Disfruto entender cómo interactúan todas las partes de una aplicación, desde 
 ---
 
 <div align="center">
-  <i>✨ "El código limpio no se escribe, se reescribe." ✨</i>
+  <i>âœ¨ "El cÃ³digo limpio no se escribe, se reescribe." âœ¨</i>
 </div>
 
 <p align="left"> <a href="https://www.github.com/MicaVazquez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/micaela-vazquez-873999263/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
